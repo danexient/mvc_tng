@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.University.Web", "Contoso.University.Web\Contoso.University.Web.csproj", "{32FAA3E2-D414-4E0A-B914-96EC5AC7C5DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.University.Web.Tests", "Contoso.University.Web.Tests\Contoso.University.Web.Tests.csproj", "{51C10C77-9F72-49F2-9FAB-7A0D6E289C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32FAA3E2-D414-4E0A-B914-96EC5AC7C5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FAA3E2-D414-4E0A-B914-96EC5AC7C5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FAA3E2-D414-4E0A-B914-96EC5AC7C5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FAA3E2-D414-4E0A-B914-96EC5AC7C5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C10C77-9F72-49F2-9FAB-7A0D6E289C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C10C77-9F72-49F2-9FAB-7A0D6E289C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C10C77-9F72-49F2-9FAB-7A0D6E289C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C10C77-9F72-49F2-9FAB-7A0D6E289C89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
